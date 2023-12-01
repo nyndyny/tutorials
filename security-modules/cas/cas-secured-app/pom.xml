@@ -8,6 +8,11 @@
     <packaging>jar</packaging>
     <description>Demo project for CAS</description>
 
+    <properties>
+      <sonar.organization>nyndyny</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
     <parent>
         <groupId>com.baeldung.cas</groupId>
         <artifactId>cas</artifactId>
